@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 https://gist.github.com/AntonioErdeljac/dd4ddba7133cdddc5acfd7a07772c786
 
 https://www.youtube.com/watch?v=gq2bbDmSokU&list=PLN5EOFPYamATYs4uZnFLm2R0i2H8RQodx&index=3
+
+
+https://github.com/Lostovayne/Real-time-google-docs-clone
